@@ -1,12 +1,13 @@
+> now archived, superseded by [`comfybyte/patchy`](https://github.com/comfybyte/patchy).
+
 # nyanvim
 my [Neovim](https://neovim.io/) configuration, built with [Nixvim](https://github.com/nix-community/nixvim).
-might or not soon be deprecated in favour of [`mtlhrt/patchy`](https://github.com/mtlhrt/patchy).
 
 ## usage
 add this repository as an input to your flake:
 ```nix
 {
-    inputs.nyanvim.url = "github:mtlhrt/nyanvim";
+    inputs.nyanvim.url = "github:comfybyte/nyanvim";
 }
 ```
 
